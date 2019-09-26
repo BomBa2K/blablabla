@@ -32,7 +32,6 @@ slide: https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fu9Y
 ![](https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=b083ae4f3efa828bd1239ae5c5242609/54fbb2fb43166d2243f73fde4b2309f79152d2f3.jpg)
 
 ---
-{%youtube u9YriiExAwQ %}
 
 ---
 
