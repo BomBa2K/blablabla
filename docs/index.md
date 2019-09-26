@@ -4,31 +4,31 @@ tags: Templates, Talk
 description: View the slide with "Slide Mode".
 ---
 
-#  <font color="#dd0000">§Ú­n¤¶²ĞJOJO</font>
+#  <font color="#dd0000">æˆ‘è¦ä»‹ç´¹JOJO</font>
 
 
 <!-- Put the link to this slide here so people can follow -->
 slide: https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fu9YriiExAwQ%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Du9YriiExAwQ&docid=FDioJLf1FkMcqM&tbnid=S8GrJ2711NpbyM%3A&vet=10ahUKEwja3fuvue7kAhU-yosBHXeHA7AQMwhPKAAwAA..i&w=1280&h=720&bih=693&biw=1340&q=JOJO&ved=0ahUKEwja3fuvue7kAhU-yosBHXeHA7AQMwhPKAAwAA&iact=mrc&uact=8
-
+ 
 ---
 
-­nÁ¿JOJO¤@©w­n¥ı±q¤Û¼v¦å¯ßÁ¿°_!
-¦³½Ğ......
-# **¤j³ì!!!!!**
+è¦è¬›JOJOä¸€å®šè¦å…ˆå¾å¹»å½±è¡€è„ˆè¬›èµ·!
+æœ‰è«‹......
+# **å¤§å–¬!!!!!**
 
 ![](https://img.moegirl.org/common/thumb/7/77/Jonathan_ASB.jpg/200px-Jonathan_ASB.jpg)
 
 ---
 
-¦A¨Ó¦³½Ğ§Ú­Ì¦UºØÄÌ¥]¨®§Şªº¦Ñ¥q¾÷
-# ¤G³ì!!!
+å†ä¾†æœ‰è«‹æˆ‘å€‘å„ç¨®é¨·åŒ…è»ŠæŠ€çš„è€å¸æ©Ÿ
+# äºŒå–¬!!!
 
 ![](https://img.moegirl.org/common/f/f9/F020e93fcb2bb334650a7328a938cbd0.jpg)
 
 ---
 
-¦A¨Ó¬O§Ú­Ì¥Ã»·ªºÀs¶Æ¤Ñ ¦³½Ğ.....
-# ¤T³ì!!!
+å†ä¾†æ˜¯æˆ‘å€‘æ°¸é çš„é¾å‚²å¤© æœ‰è«‹.....
+# ä¸‰å–¬!!!
 ![](https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=b083ae4f3efa828bd1239ae5c5242609/54fbb2fb43166d2243f73fde4b2309f79152d2f3.jpg)
 
 ---
